@@ -10,3 +10,4 @@ Instructions:
 2. Click the `Undo / Redo` tab > `Apply` and paste in the contents of the data_cleaning_script.txt file you just created with the JSON code.
 3. something new
 4. Click `Perform operations`. The dataset should now be the same as your other cleaned dataset.
+5. save the file
